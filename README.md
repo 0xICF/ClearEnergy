@@ -91,7 +91,7 @@ ClearEnergy | UMASploit - Modbus Remote Command Tool - MRCT v1.0.1 Beta
 
 ![Alt text](https://0xicf.files.wordpress.com/2017/04/mrct.jpg "Modbus Remote Command Tool - MRCT")
 
-ClearEnergy | UMAS Login Key Generator (ULKG) - MRCT v1.0.1 Beta
+ClearEnergy | UMAS Login Key Generator (ULKG) - ULKG v1.0.1 Beta
 
 
 
@@ -132,11 +132,11 @@ http://www.critifence.com/sve/sve.php?id=82003204
 News
 -
 
-http://securityaffairs.co/wordpress/57731/malware/clearenergy-ransomware-scada.html
+SecurityAffairs - http://securityaffairs.co/wordpress/57731/malware/clearenergy-ransomware-scada.html
 
-https://0xicf.wordpress.com/2017/04/09/clearenergy-ransomware-can-destroy-process-automation-logics-in-critical-infrastructure-scada-and-industrial-control-systems/
+0xICF - https://0xicf.wordpress.com/2017/04/09/clearenergy-ransomware-can-destroy-process-automation-logics-in-critical-infrastructure-scada-and-industrial-control-systems/
 
-http://virusguides.com/clearenergy-ransomware-targets-critical-infrastructure-scada-industrial-control-systems/
+VirusGuides - http://virusguides.com/clearenergy-ransomware-targets-critical-infrastructure-scada-industrial-control-systems/
 
-http://critifence.com/blog/clear_energy/
+CRITIFENCE - http://critifence.com/blog/clear_energy/
 
