@@ -8,7 +8,6 @@ ClearEnergy | UMASploit
 
 Introduction
 ============
-ClearEnergy | UMASploit
 
 In April 4, 2017 researchers at CRITIFENCE® Critical Infrastructure and SCADA/ICS Cyber Threats Research Group have demonstrated a new proof of concept ransomware attack aiming to erase (clear) the ladder logic diagram in Programmable Logic Controllers (PLCs). 
 
