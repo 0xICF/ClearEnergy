@@ -8,21 +8,9 @@ ClearEnergy | UMASploit
 
 Introduction
 ============
-SCADAShutdownTool is an industrial control system automation and testing tool allows security researchers and experts to test SCADA security systems, enumerate slave controllers, read controller's registers values and rewrite registers data.
-SCADAShutdownTool allow enumeration of all registers types of a controller include coil outputs, digital inputs, analogue inputs, holding registers and extended registers.
+UMASploit
 
-SCADAShutdownTool can run in different modes include:
-
-Safe-mode: Read-only and list non-zero values.
-
-Real-mode: Rewrite only non-zero values.
-
-Aggressive-mode: Rewrite all controller registers.
-
-
-Controller registers can be rewrite with the default value or “shutdown value” that specified by the user.
-
-SCADAShutdownTool developed for research purposes only, it is strongly recommended that you do not use this tool for illegal purposes. 
+UMASploit developed for research purposes only, it is strongly recommended that you do not use this tool for illegal purposes. 
 
 
 
