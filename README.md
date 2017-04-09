@@ -85,7 +85,7 @@ Screenshots
 
 ![Alt text](https://0xicf.files.wordpress.com/2017/04/ulkg.jpg "UMAS Login Key Generator (ULKG)")
 
-ClearEnergy | UMAS Login Key Generator (ULKG) - ULKG v1.0.1 Beta
+ClearEnergy | UMASploit - UMAS Login Key Generator (ULKG) v1.0.1 Beta
 
 
 ![Alt text](https://0xicf.files.wordpress.com/2017/04/mrct1.jpg "Modbus Remote Command Tool (MRCT)")
