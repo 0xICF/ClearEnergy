@@ -88,5 +88,5 @@ https://0xicf.wordpress.com/2017/04/09/clearenergy-ransomware-can-destroy-proces
 
 http://virusguides.com/clearenergy-ransomware-targets-critical-infrastructure-scada-industrial-control-systems/
 
-
+http://critifence.com/blog/clear_energy/
 
