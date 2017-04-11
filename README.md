@@ -128,6 +128,17 @@ http://www.critifence.com/sve/sve.php?id=82003204
 
 
 
+Advisories
+-
+
+Schneider Electric - SEVD-2017-065-01
+http://www.schneider-electric.com/en/download/document/SEVD-2017-065-01/
+
+ICS-CERT, Department of Homeland Security (DHS) - ICSA-17-101-01
+https://ics-cert.us-cert.gov/advisories/ICSA-17-101-01
+
+
+
 News
 -
 
