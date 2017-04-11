@@ -11,13 +11,13 @@ Introduction
 
 In April 4, 2017 researchers at CRITIFENCE® Critical Infrastructure and SCADA/ICS Cyber Threats Research Group have demonstrated a new proof of concept ransomware attack aiming to erase (clear) the ladder logic diagram in Programmable Logic Controllers (PLCs). 
 
-UMASploit is the library behind ClearEnergy that CRITIFENCE researchers used in their proof of concept ransomware research.
+UMASploit is the library behind ClearEnergy proof of concept ransomware attack that CRITIFENCE researchers used in their proof of concept ransomware research.
 
 The current version of UMASploit includes the following classes and will be updated soon:
 UMAS Login Key Generator (ULKG)
 Modbus Remote Command Tool (MRCT)
 
-NOTE: The full source of ClearEnergy is under limitations and restriction and cannot be released.
+NOTE: The full source of ClearEnergy is currently under restrictions and cannot be released.
 
 The vulnerabilities behind the ransomware a.k.a ClearEnergy affects a massive range of PLC models of world’s largest manufacturers of SCADA and Industrial Control Systems. This includes Schneider Electric Unity series PLCs and Unity OS from version 2.6 and later, other PLC models of leading vendors include GE and Allen-Bradley (MicroLogix family) which are also found to be vulnerable to the ransomware attack.
 
