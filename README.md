@@ -107,6 +107,7 @@ ClearEnergy - UMASploit is a a set of tools allows to test if a target PLC on a 
 Change log
 ============
 April 4, 2017 - UMASploit v1.0.1 Beta
+April 14, 2017 - UMASploit v1.1
 
 
 Screenshots
