@@ -7,7 +7,7 @@ import sys
 
 __file__ = "MRCT.py"
 __project__ = "ClearEnergy - UMASploit | Modbus Remote Command Tool (MRCT)"
-__version__ = "1.0.1 Beta"
+__version__ = "1.1"
 __description__ = "Modbus Remote Command Tool (MRCT) is part of ClearEnergy - UMASploit package. MRCT allows to send a remote administrative commands to a target PLC that vulnerable to ClearEnery vulnerabilities. NOTE: You will need to specify the session key manually."
 __author__ = "CRITIFENCE, Critical Infrastructure and SCADA/ICS Cyber Threats Research Group"
 __copyright__ = "COPYRIGHTS (c) 2017, CRITIFENCE"
@@ -51,7 +51,7 @@ banner = """\
 + ======================================================================================
 + -----------------  ClearEnergy | Modbus Remote Command Tool (MRCT)  ------------------
 + ======================================================================================
-+ Version: 1.0.1 Beta
++ Version: 1.1
 + Author: CRITIFENCE, Critical Infrastructure and SCADA/ICS Cyber Threats Research Group
 + Copyright: COPYRIGHTS (C) 2017, CRITIFENCE
 + ======================================================================================

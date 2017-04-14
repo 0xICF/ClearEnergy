@@ -8,7 +8,7 @@ import time
 
 __file__ = "ULKG.py"
 __project__ = "ClearEnergy - UMASploit | UMAS Login Key Generator (ULKG)"
-__version__ = "1.0.1 Beta"
+__version__ = "1.1"
 __description__ = "UMAS Login Key Generator (ULKG) is part of ClearEnergy - UMASploit package. ULKG allows to send a login request to target PLC that vulnerable to ClearEnergy vulnerabilities in order to get a UMAS Session Key (Identifier). You can use this session key later with Modbus Remote Command Tool (MRCT) in order to send remote adminitrative commands to the vulnerable PLC."
 __author__ = "CRITIFENCE, Critical Infrastructure and SCADA/ICS Cyber Threats Research Group"
 __copyright__ = "COPYRIGHTS (c) 2017, CRITIFENCE"
@@ -47,7 +47,7 @@ banner = """\
 + ======================================================================================
 + ------------------  ClearEnergy | UMAS Login Key Generator (ULKG)  -------------------
 + ======================================================================================
-+ Version: 1.0.1 Beta
++ Version: 1.1
 + Author: CRITIFENCE, Critical Infrastructure and SCADA/ICS Cyber Threats Research Group
 + Copyright: COPYRIGHTS (c) 2017, CRITIFENCE
 + ======================================================================================
