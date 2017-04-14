@@ -53,7 +53,7 @@ banner = """\
 + ======================================================================================
 """
 
-
+key = "\\x6b"
 msg = ""
 fError = 0
 rsid = ""
@@ -129,7 +129,7 @@ def attack():
 
 
 def catch_res():
-    global fError
+    global fError, key
     # *****************
     # Response handling
     # *****************
@@ -172,11 +172,15 @@ def catch_res():
     
 
 
-if __name__ == '__main__':
-    start_banner()
+def start_ulkg():
+    #start_banner()
     attack()
     s.close()
-    print "[ULKG] UMAS Login Key is ready to use.\r\n\r\n"
+    if DEBUG == True:
+        print "[ULKG] UMAS Login Key " + str(key) + " is ready to use.\r\n\r\n"
+    return "[ULKG] UMAS Login Key " + str(key) + " is ready to use.\r\n"
+
+
 
 
 

