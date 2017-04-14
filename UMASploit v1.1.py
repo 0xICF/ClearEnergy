@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python
+#!/usr/bin/env python
 
 import os
 from _UMASploit import ULKG
@@ -15,7 +15,6 @@ __license__ = "GNU GPL 3.0"
 
 
 banner = """\
-
 + ======================================================================================
 + ------------------  ClearEnergy | UMAS Login Key Generator (ULKG)  -------------------
 + ======================================================================================
@@ -73,7 +72,4 @@ if __name__ == '__main__':
     print banner
     select_command()
     print "[UMASploit] Completed!"
-
-
-
 
