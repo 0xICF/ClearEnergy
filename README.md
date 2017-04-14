@@ -15,9 +15,9 @@ The current version of UMASploit includes the following classes and will be upda
 UMAS Login Key Generator (ULKG)
 Modbus Remote Command Tool (MRCT)
 
-NOTE: The full source of ClearEnergy is currently under restrictions and cannot be released.
-
-
+NOTE: The full source of ClearEnergy is currently under restrictions and cannot be released.  
+  
+  
 
 
 Background
@@ -106,7 +106,7 @@ ClearEnergy - UMASploit is a a set of tools allows to test if a target PLC on a 
 
 Change log
 ============
-April 4, 2017 - UMASploit v1.0.1 Beta
+April 4, 2017 - UMASploit v1.0.1 Beta  
 April 14, 2017 - UMASploit v1.1
 
 
