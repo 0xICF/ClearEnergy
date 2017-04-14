@@ -1,4 +1,4 @@
-ClearEnergy | UMASploit
+ClearEnergy | UMASploit v1.1
 ============
 
 ![Alt text](https://0xicf.files.wordpress.com/2017/04/clearenergy-banner.jpg?w=676 "ClearEnergy - UMASploit")
