@@ -8,7 +8,7 @@ from _UMASploit import MRCT
 __file__ = "UMASploit.py"
 __project__ = "ClearEnergy - UMASploit"
 __version__ = "1.1"
-__description__ = "UMASploit framework developted to test if a remote PLC hardware device is vulnerable to CVE-2017-6032 and CVE-2017-6034 vulnerabilities (ClearEnergy) as documented in ICSA-17-101-01 (ICS-CERT Advisory) and SEVD-2017-065-01 (Schneider Electric Advisory). UMASploit combines the advantages of both vulnerabilities in order to a send remote administrative commands to a target PLCs."
+__description__ = "UMASploit framework developed to test if a remote PLC hardware device is vulnerable to CVE-2017-6032 and CVE-2017-6034 vulnerabilities (ClearEnergy) as documented in ICSA-17-101-01 (ICS-CERT Advisory) and SEVD-2017-065-01 (Schneider Electric Advisory). UMASploit combines the advantages of both vulnerabilities in order to a send remote administrative commands to a target PLCs."
 __author__ = "CRITIFENCE, Critical Infrastructure and SCADA/ICS Cyber Threats Research Group"
 __copyright__ = "COPYRIGHTS (c) 2017, CRITIFENCE"
 __license__ = "GNU GPL 3.0"
@@ -27,7 +27,7 @@ banner = """\
 
 
 def select_command():
-    os.system('cls')
+    #os.system('cls')
 
     if True:
         print "\r\nPlease choose command from the list:"
